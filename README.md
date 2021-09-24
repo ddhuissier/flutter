@@ -1,2 +1,2 @@
 # flutter
-Apps demo
+Demo apps
